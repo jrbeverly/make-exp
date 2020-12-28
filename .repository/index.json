@@ -1,0 +1,19 @@
+{
+  "slug": "make-exp",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "makefile",
+    "build",
+    "experiment",
+    "build-tool"
+  ],
+  "languages": [
+    "Makefile"
+  ]
+}
