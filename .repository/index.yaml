@@ -1,0 +1,17 @@
+slug: make-exp
+description: Experimenting with a build-harness style of makefiles
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2018
+topics: |-
+  [
+    "makefile",
+    "build",
+    "experiment",
+    "build-tool"
+  ]
